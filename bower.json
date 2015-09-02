@@ -1,0 +1,32 @@
+{
+  "name": "interpolation",
+  "version": "0.0.1",
+  "description": "interpolation library",
+  "keywords": [
+    "approximation",
+    "interpolation",
+    "interpolate",
+    "analysis",
+    "numerical",
+    "lagrange",
+    "newton"
+  ],
+  "main": [
+    "dist/interpolation.js",
+    "dist/interpolation.min.js"
+  ],
+  "authors": [
+    "Jefferson Hernández"
+  ],
+  "homepage": "https://github.com/mljs/interpolation",
+  "license": "MIT",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "ignore": [
+    "/*",
+    "!dist/*"
+  ]
+}
